@@ -20,6 +20,7 @@ public class Terakhir {
         System.out.println("go green guys");
         System.out.println("ok");
         System.out.println("siap");
+        System.out.println("ok gan");
     }
     
 }
