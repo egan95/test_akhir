@@ -18,6 +18,8 @@ public class Terakhir {
         // TODO code application logic here
         
         System.out.println("go green guys");
+        System.out.println("ok");
+        System.out.println("siap");
     }
     
 }
